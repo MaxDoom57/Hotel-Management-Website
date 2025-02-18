@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Visit the hotel management website: [Link Here]**
+**Visit the hotel management website: bit.ly/4hZRT1Q**
 This is a fully functional website developed for a hotel to manage customers, room bookings, and other essential functions efficiently. The website provides an intuitive interface for both customers and hotel staff to interact with the system.
 
 ## Features
@@ -27,7 +27,7 @@ This is a fully functional website developed for a hotel to manage customers, ro
 Contributions are welcome! Feel free to submit a pull request or open an issue for improvements.
 
 ## Website Link
-Visit the hotel management website: [Link Here]
+Visit the hotel management website: bit.ly/4hZRT1Q
 
 ## Contact
 For any inquiries or support, contact us at **sandaruwanr57@gmail.com**
