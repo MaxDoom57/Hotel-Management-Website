@@ -34,7 +34,7 @@ const Home = () => {
               </ul>
             </div>
             <div className="absolute font-semibold right-8">
-              <button className="px-4 py-2 bg-brown">Book Now</button>
+              <button className="px-4 py-2 bg-brown hover:scale-105 transition duration-300">Book Now</button>
             </div>
           </div>
 
@@ -51,7 +51,7 @@ const Home = () => {
               </h1>
             </div>
             <div className="mt-16">
-              <button className="px-4 py-2 border border-white font-inter">
+              <button className="px-4 py-2 border border-white font-inter hover:bg-brown hover:scale-105 transition duration-300">
                 Explore Now <i class="fa-solid fa-arrow-right-long"></i>
               </button>
             </div>
@@ -81,7 +81,7 @@ const Home = () => {
             consequuntur alias.
           </div>
           <div className="mt-10">
-            <button className="px-4 py-2 font-semibold text-white bg-brown">
+            <button className="px-4 py-2 font-semibold text-white bg-brown hover:scale-105 transition duration-300">
               Read More <i class="fa-solid fa-arrow-right-long"></i>
             </button>
           </div>
@@ -183,7 +183,7 @@ const Home = () => {
             </div>
           </div>
           <div>
-            <button className="px-4 py-2 mt-16 text-white bg-brown font-inter">
+            <button className="px-4 py-2 mt-16 text-white bg-brown font-inter hover:scale-105 transition duration-300">
               Book Now <i class="fa-solid fa-arrow-right-long"></i>
             </button>
           </div>
@@ -246,7 +246,7 @@ const Home = () => {
         <div className="flex flex-col w-full ">
           <div className="font-semibold text-center cursor-pointer font-inter text-brown">
             Have more questions?
-            <button className="px-4 py-2 mx-12 text-white bg-brown">
+            <button className="px-4 py-2 mx-12 text-white bg-brown hover:scale-105 transition duration-300">
               Contact Us
             </button>
           </div>
