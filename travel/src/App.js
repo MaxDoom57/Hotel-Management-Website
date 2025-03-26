@@ -2,7 +2,7 @@ import Home from "./Pages/Home";
 
 function App() {
   return (
-    <div>
+    <div className="bg-zinc-50">
       <Home />
     </div>
   );

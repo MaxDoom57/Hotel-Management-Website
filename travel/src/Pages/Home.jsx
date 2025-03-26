@@ -10,13 +10,14 @@ import img5 from "../Assets/11.jpg";
 import offerimage from "../Assets/10.jpg";
 import Tab from "../Components/Tab";
 import Quiz from "../Components/Quiz";
+import BookingForm from "../Components/BookingForm";
 
 const Home = () => {
   return (
     <>
       {/* Home section */}
       <div
-        className="text-white bg-no-repeat bg-cover h-svh "
+        className="text-white bg-no-repeat bg-cover h-svh top-0"
         style={{ backgroundImage: `url(${homeImage})` }} //Add background image
       >
         <div className="w-[100%] flex flex-col items-center">
@@ -55,10 +56,11 @@ const Home = () => {
                 Explore Now <i class="fa-solid fa-arrow-right-long"></i>
               </button>
             </div>
+            
           </div>
 
           {/* Availability checking area */}
-          <div></div>
+          <div><BookingForm/></div>
         </div>
       </div>
 
